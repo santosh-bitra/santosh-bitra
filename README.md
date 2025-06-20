@@ -1,8 +1,12 @@
-- 👋 Hi, I’m **@santosh-bitra**
-- 👀 I’m a unix-nerd, I dig DevOps, BigData, Containerization, Container Orchestration, CI/CD, Business Analysis and Djent.
-- 🌱 Always geeking. 🤓
-- 💞️ I’m ever happy collaborate on DevOps, Hadoop, Python, K8s, and Music as well
-- 📫 To reach me, simply drop an email to **mail.santoshbitra@gmail.com** with a subject "**Github Collab**" :)
+👋 Hey there, I’m @santosh-bitra
+
+⚙️ I’m a passionate Senior DevOps Engineer with a deep-rooted love for Unix, CloudOps, CI/CD, Containerization, Orchestration (K8s), Big Data, and Enterprise Systems.
+
+🚀 Always exploring — be it automating workflows, scaling systems, or understanding complex architectures.
+
+🤝 Open to collaborating on anything DevOps, Python, Kubernetes, Hadoop — and even music!
+
+📬 Reach out anytime at mail.santoshbitra@gmail.com — just use the subject "GitHub Collab" so I don’t miss it.
 
 <!---
 santosh-bitra/santosh-bitra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
