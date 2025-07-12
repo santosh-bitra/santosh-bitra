@@ -1,4 +1,4 @@
-👋 Hey there, I’m @santosh-bitra
+👋 Hey there, I’m Santosh Bitra
 
 ⚙️ I’m a passionate Senior DevOps Engineer with a deep-rooted love for Unix, CloudOps, CI/CD, Containerization, Orchestration (K8s), Big Data, and Enterprise Systems.
 
